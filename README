@@ -1,8 +1,0 @@
-
-Tudor Cristian - 321CB
-
-Mare parte din descrierea temei este relatata in javadoc-ul aferent. Exceptand cele 4 fisiere primite toate celelalte clase au fost explicate. 
-
-Pentru a evita scrierea a 7 if-uri am cautat pe net cum sa apelez o metoda dintr-o clasa a carei denumire o aveam memorata intr-o variabila de tip String ("pachetul_meu.clasa_mea"). Un alt lucru ce tine de implementare si trebuie mentionat este faptul ca am luat modelul laboratorului cu figuri geometrice (Circle, Square, Rectangle) pentru a evidentia polimorfismul (sper ca am inteles corect conceptul). Toate procesele (Cube, Square, Factorial etc.) extind clasa abstracta "Procese". De aici reiese ca toate acestea sunt, intr-un cuvant, procese. Cele 3 planificari implementeaza interfata "Planificari" deoarece au aceeasi metoda, insa implementata diferit, desigur.
-
-Alte lucruri importante nu cred ca mai sunt. Cum spuneam, javadoc-ul ofera toate informatiile necesare intelegerii codului.
